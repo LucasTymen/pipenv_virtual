@@ -1,0 +1,4 @@
+pipenv --version                  ==>> to check the version of pipenv used
+pipenv --three                    ==>> creates a virtual environnement
+pipenv install numpy              ==>> if not specified, the latest version is installed
+pipenv install requests==2.18.1   ==>> to install a specific version
